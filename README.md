@@ -1,4 +1,4 @@
-# AppNexus - Your Gateway to Discovery
+# App Store - Your Gateway to Discovery
 
 AppNexus is a modern, user-centric AppStore platform designed to help users discover, install, and review a wide array of applications tailored to their interests. The platform features trending apps, categorized Browse, user reviews, and a personalized experience to simplify app management and promote engagement.
 
@@ -15,7 +15,7 @@ The core goal of this project is to deliver a comprehensive and intuitive AppSto
 ### 1. Layout & Navigation
 * **Responsive Design:** Fully responsive across mobile, tablet, and desktop devices.
 * **Main Navbar:**
-    * Features the "AppNexus" name and logo.
+    * Features the "App Store" name and logo.
     * Navigation links: "Apps" and "My Profile" (protected).
     * Active routes are clearly highlighted.
     * **Conditional UI for Authentication:**
